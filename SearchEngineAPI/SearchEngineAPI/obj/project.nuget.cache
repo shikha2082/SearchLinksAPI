@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXOblt3iY0wJ51I56+Z5MPKBXUmjXNCbqe3cKaBeVrN0EQSmUUG9rOeVlgFz+yFDpsWTYKDdFBP4U3OSHP9mSw==",
+  "success": true,
+  "projectFilePath": "C:\\SearchEngineAPI\\SearchEngineAPI\\SearchEngineAPI\\SearchEngineAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.14\\microsoft.aspnetcore.jsonpatch.3.1.14.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.14\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.14.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Shikha.Sahu\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
